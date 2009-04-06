@@ -1,0 +1,36 @@
+/*.o
+<<<<<<< HEAD:test/.gitignore
+=======
+/*~
+>>>>>>> 4f0228e99f37dedd16bc56df7b3982b589cf4122:test/.gitignore
+/.deps
+/.libs
+/Makefile
+/Makefile.in
+/cdda-1.raw
+/cdda-2.raw
+/cdda-good.raw
+/cdda-jitter.raw
+/cdda-underrun.raw
+/check_common_fn
+/check_cue.sh
+/check_iso.sh
+/check_nrg.sh
+/check_paranoia.sh
+/check_sizeof
+/testassert
+/testbincue
+/testbincue.c
+/testdefault
+/testgetdevices
+/testischar
+/testiso9660
+/testisocd
+/testisocd2
+/testisocd2.c
+/testnrg
+/testnrg.c
+/testparanoia
+/testpregap
+/testpregap.c
+/testtoc

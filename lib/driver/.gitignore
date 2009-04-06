@@ -1,0 +1,9 @@
+/*.lo
+/*.o
+/.deps
+/.libs
+/*~
+/Makefile
+/Makefile.in
+/libcdio.la
+/libcdio.la.ver
